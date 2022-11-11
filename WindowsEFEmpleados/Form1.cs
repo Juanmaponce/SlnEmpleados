@@ -29,7 +29,7 @@ namespace WindowsEFEmpleados
 
         private void btnInsertar_Click(object sender, EventArgs e)
         {
-           Empleado empleado = new Empleado() {Nombre = "Juan" Apellido = "Perez", Id = "1111", Legajo = 2040 };
+           Empleado empleado = new Empleado() {Nombre = "Juan" ,Apellido = "Perez", Id = "1111", Legajo = 2040 };
            int filasAfectadas = adminEmpleado.Nuevo(empleado);
 
             if (filasAfectadas > 0)
