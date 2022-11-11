@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsEmpleados", "Windows
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaEmpleados", "LibreriaEmpleados\LibreriaEmpleados.csproj", "{26BEF546-0CEC-4105-93D2-816402EF41A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsEFEmpleados", "WindowsEFEmpleados\WindowsEFEmpleados.csproj", "{307943C5-6308-4058-90C9-2FB37EBB0B36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{26BEF546-0CEC-4105-93D2-816402EF41A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26BEF546-0CEC-4105-93D2-816402EF41A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26BEF546-0CEC-4105-93D2-816402EF41A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307943C5-6308-4058-90C9-2FB37EBB0B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307943C5-6308-4058-90C9-2FB37EBB0B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307943C5-6308-4058-90C9-2FB37EBB0B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307943C5-6308-4058-90C9-2FB37EBB0B36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
